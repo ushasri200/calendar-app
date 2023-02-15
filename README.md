@@ -7,10 +7,12 @@
    * Install the required packages using pip: pip install -r requirements.txt
    
 ##Usage
-  . To run the calendar app, navigate to the project directory and run the following command:
-  . python calendar.py
+  To run the calendar app, navigate to the project directory and run the following command:
+  
+    . python calendar.py
   
  By default, the calendar will display the current month. You can also display a specific month or year by passing command-line arguments:
+ 
   . python calendar.py 12 2023
   . This will display the calendar for December 2023.
 
